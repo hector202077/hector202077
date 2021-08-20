@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hector202077
-- 👀 I’m interested in ...DevOps, Python, Java,
-- 🌱 I’m currently learning ...Docker, Puppet, Ansible, Python
-- 💞️ I’m looking to collaborate on ...sample projects or DevOps workflows
+- 👀 I’m interested in ...DevOps, Python, Java, 
+- 🌱 I’m currently training with ...Docker, Jenkins, Kubernetes, Ansible, Python
+- 💞️ I’m looking to collaborate on ... DevOps workflows
 - 📫 How to reach me ...
 
 <!---
