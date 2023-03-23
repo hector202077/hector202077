@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hector202077
-- 👀 I’m interested in ...DevOps, Python, Java, 
-- 🌱 I’m currently using Terraform, Docker, Jenkins, Kubernetes, Ansible, Python
-- 💞️ I’m looking to collaborate on ... DevOps workflows
+- 👀 I’m interested in ...Cloud Engineering, CyberSecurity, DevOps, Python 
+- 🌱 I’m currently using Terraform, Docker, Jenkins, Kubernetes, Python
+- 💞️ I’m looking to collaborate on ... SecDevOps workflows
 - 📫 How to reach me ...
 
 <!---
